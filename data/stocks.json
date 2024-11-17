@@ -1,0 +1,14 @@
+[
+  {
+    "productId": 1,
+    "stock": 20
+  },
+  {
+    "productId": 2,
+    "stock": 5
+  },
+  {
+    "productId": 3,
+    "stock": 0
+  }
+]
