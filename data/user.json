@@ -1,0 +1,20 @@
+[
+  {
+    "userId": 1,
+    "username": "ユーザー1",
+    "email": "user1@mail.com",
+    "password": "$2a$10$Cdrrtz22U62vYeAZMr.Sg.NIzLclrThr99xcIa7nSsV6yxJ3FpGSm"
+  },
+  {
+    "userId": 2,
+    "username": "ユーザー2",
+    "email": "user2@mail.com",
+    "password": "$2a$10$JkNy/0JtawN6OM1Byw3M4.NIdEBDeO5.cWmje6T0kYfYkevSaGRyq"
+  },
+  {
+    "userId": 3,
+    "username": "ユーザー3",
+    "email": "user3@mail.com",
+    "password": "$2a$10$bVz.nGRvBwRReNtY2Hbb4OCqeDVEptcsqsqjdwO66vpwzEeN4o2Iq"
+  }
+]

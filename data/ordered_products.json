@@ -1,0 +1,26 @@
+[
+  {
+    "orderedProductId": 1,
+    "orderId": 1,
+    "productId": 2,
+    "price": 2000,
+    "quantity": 1,
+    "createdAt": "2024-11-25T09:12:25.949Z"
+  },
+  {
+    "orderedProductId": 2,
+    "orderId": 2,
+    "productId": 1,
+    "price": 1000,
+    "quantity": 3,
+    "createdAt": "2024-11-25T09:13:40.555Z"
+  },
+  {
+    "orderedProductId": 3,
+    "orderId": 2,
+    "productId": 2,
+    "price": 2000,
+    "quantity": 2,
+    "createdAt": "2024-11-25T09:13:40.555Z"
+  }
+]

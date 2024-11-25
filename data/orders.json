@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "orderId": 1,
+    "userId": 2,
+    "totalAmount": 2000,
+    "createdAt": "2024-11-25T09:12:25.943Z"
+  },
+  {
+    "orderId": 2,
+    "userId": 1,
+    "totalAmount": 7000,
+    "createdAt": "2024-11-25T09:13:40.554Z"
+  }
+]

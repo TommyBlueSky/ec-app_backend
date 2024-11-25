@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "cartId": "1_1732379265967",
+    "userId": 1,
+    "productId": 1,
+    "quantity": 3
+  },
+  {
+    "cartId": "2_1732381040951",
+    "userId": 2,
+    "productId": 2,
+    "quantity": 1
+  }
+]
